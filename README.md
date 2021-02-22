@@ -10,4 +10,4 @@ engenharia de software do QuintoAndar
 <hr/>
 
 <h4><b>Aulas:</b> :vhs: 8 Módulos</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :white_check_mark: Concluído
